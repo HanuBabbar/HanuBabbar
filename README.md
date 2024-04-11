@@ -13,7 +13,7 @@
 <h3 align="center">Computer Science Fresher | Problem Solver </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/profile/hanubabbar321" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_hanu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hanu-babbar-8b7089290/" target="blank"><img align="center" src="" alt="lin_hanu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/hanu-babbar-8b7089290/" target="blank"><img align="center" src="<a href="https://www.flaticon.com/free-icons/linkedin" alt="lin_hanu" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/its._.hanu._/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_hanu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hanu.babbar.39" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_hanu" height="30" width="40" /></a>
  <a href = "mailto: hanubabbar321@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
@@ -37,10 +37,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ I’m currently Developing a web app for a**hackathon**<br>
+✔ I’m currently learning about **Java**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source projects** that can help me learn more<br>
+✔ Ask from me anything you want, If I am alive I will try my best to answer it 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
