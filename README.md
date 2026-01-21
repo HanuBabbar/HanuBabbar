@@ -36,7 +36,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ Callme: ***He/Him*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a web app for a **hackathon**<br>
 ✔ I’m currently learning about **Java**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects** that can help me learn more<br>
