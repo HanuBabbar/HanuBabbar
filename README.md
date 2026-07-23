@@ -41,5 +41,6 @@
 
 ### 🚀 Best Projects
 
-- **[Brainrot Tracker](https://github.com/HanuBabbar/brainrottracker)**: A smart application to track and manage digital habits.
+- **[Brainrot Tracker](https://github.com/HanuBabbar/Brainrot-Tracker)**: A smart application to track and manage digital habits.
 - **[Eco-eye](https://github.com/HanuBabbar/Eco-eye)**: An impactful project promoting environmental awareness and sustainability.
+- **[Silent to Volume Switcher](https://github.com/HanuBabbar/SilentToVolume-Switcher-App)**: An Android app to seamlessly switch and manage device volume profiles.
