@@ -13,6 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science Graduate from **Chitkara University, India**.
+- 💼 Currently working as an **SDE Intern at Bajaj Finserv Health**.
 - 💻 Passionate about **Java Development**, problem-solving, and building robust software.
 - 🌱 Constantly learning and exploring new technologies.
 - 🤝 Open to collaborating on exciting Open-Source projects.
@@ -35,3 +36,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HanuBabbar&show_icons=true&hide_border=true&theme=radical" width="48%" alt="Hanu's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanuBabbar&layout=compact&hide_border=true&theme=radical" width="48%" alt="Top Languages" />
 </div>
+
+---
+
+### 🚀 Best Projects
+
+- **[Brainrot Tracker](https://github.com/HanuBabbar/brainrottracker)**: A smart application to track and manage digital habits.
+- **[Eco-eye](https://github.com/HanuBabbar/Eco-eye)**: An impactful project promoting environmental awareness and sustainability.
